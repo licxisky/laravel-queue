@@ -2,6 +2,7 @@
 
 namespace App\Jobs;
 
+use App\Chapter;
 use App\Novel;
 use Illuminate\Bus\Queueable;
 use Illuminate\Queue\SerializesModels;
